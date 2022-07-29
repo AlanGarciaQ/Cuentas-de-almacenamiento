@@ -1,7 +1,7 @@
 # Cuentas de almacenamiento
 **Objetivo:** Conocer y utilizar los diferentes recursos de almacenamiento que nos proporciona Azure.     
 
-![](/imagenes/virtual%20machine.png)
+![](/imagenes/nube_.jpg)
 
 **Requisitos**
 - Cuenta de Azure con una suscripción activa
